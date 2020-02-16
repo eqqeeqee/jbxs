@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\12303\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\12303\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Game.1076983326.00" t="ExcludeRecursive" />
+    <e p="D:\UnityProject\Game" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Script" t="Include">
+          <e p="Buttons" t="Include">
+            <e p="ButtonBase.cs" t="Include" />
+            <e p="ButtonF.cs" t="Include" />
+          </e>
+          <e p="CameraContol" t="Include">
+            <e p="CameraFollowed.cs" t="Include" />
+          </e>
+          <e p="FragilePlatform" t="Include">
+            <e p="FPTrigger.cs" t="Include" />
+            <e p="FragilePlatform.cs" t="Include" />
+          </e>
+          <e p="HeroControl" t="Include">
+            <e p="GroundCheck.cs" t="Include" />
+            <e p="HeroAnimation.cs" t="Include" />
+            <e p="HeroBase.cs" t="Include" />
+            <e p="HeroController.cs" t="Include" />
+            <e p="HeroPossessed.cs" t="Include" />
+            <e p="MouseEnter.cs" t="Include" />
+          </e>
+          <e p="Ladder" t="Include">
+            <e p="Ladder.cs" t="Include" />
+          </e>
+          <e p="SoulControler" t="Include">
+            <e p="SoulBase.cs" t="Include" />
+            <e p="SoulController.cs" t="Include" />
+          </e>
+        </e>
+      </e>
+      <e p="Game.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
